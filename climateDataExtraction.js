@@ -1,5 +1,3 @@
-// Set the region of interest (
-
 //Load all counties(GAUL Level 2)
 var allCounties = ee.FeatureCollection("FAO/GAUL/2015.level2").filter(ee.Filter.eq('ADM0_NAME', 'Kenya'));
 
