@@ -16,6 +16,8 @@
 2. **Climate Data**
    - Historical and projected weather data.
    - Temperature, rainfall, and humidity levels.
+     
+link to the data: https://drive.google.com/drive/folders/1L42_-eatg7yANp_47wW0Ue7PL_9fBL_j?usp=sharing
 
 3. **Crop Data**
    - Genotypic and phenotypic information of various crop varieties.
