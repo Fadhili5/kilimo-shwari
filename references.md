@@ -5,3 +5,5 @@ https://www.arcgis.com/apps/mapviewer/index.html?webmap=ed9efda1c6fa46b4b828db55
 
 #### Soil data for Kenya
 https://www.arcgis.com/apps/mapviewer/index.html?webmap=ed9efda1c6fa46b4b828db550be3355f
+
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JF8YST
